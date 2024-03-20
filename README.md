@@ -28,3 +28,8 @@ Sending Messages from my ESP32 Through WhatsApp
 ## Problems
 .  I uploaded the sketch and got an "redefinition void setup ()" error and went back into the code, saw that it was define twice also the void loop was define twice, so I deleted the extra definitions and anything in the {}.
 
+## Screenshots
+![Midterm](https://github.com/Chris1x0/CSN150-Midterm/assets/158490626/4b79f121-4c92-47e2-81ab-f209f03528b2)
+![Midterm 1](https://github.com/Chris1x0/CSN150-Midterm/assets/158490626/c45d3427-dcb4-4dfb-b686-38071cb74d39)
+
+
